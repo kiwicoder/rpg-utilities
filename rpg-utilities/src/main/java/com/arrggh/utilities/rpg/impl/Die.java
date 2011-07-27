@@ -1,8 +1,8 @@
-package com.arrggh.rpg.utilities.impl;
+package com.arrggh.utilities.rpg.impl;
 
 import java.util.Random;
 
-import com.arrggh.rpg.utilities.api.IDie;
+import com.arrggh.utilities.rpg.api.IDie;
 
 public class Die implements IDie {
     private static final Random random = new Random( System.nanoTime() );

@@ -1,6 +1,6 @@
-package com.arrggh.rpg.utilities.impl;
+package com.arrggh.utilities.rpg.impl;
 
-import com.arrggh.rpg.utilities.api.IDice;
+import com.arrggh.utilities.rpg.api.IDice;
 
 public class Dice implements IDice {
     private final Die[] dice;

@@ -1,10 +1,11 @@
-package com.arrggh.rpg.utilities.impl;
+package com.arrggh.utilities.rpg.impl;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import com.arrggh.rpg.utilities.api.IDice;
+import com.arrggh.utilities.rpg.api.IDice;
+import com.arrggh.utilities.rpg.impl.Dice;
 
 public class DiceTest {
     @Test

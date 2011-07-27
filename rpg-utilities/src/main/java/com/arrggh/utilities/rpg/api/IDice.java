@@ -1,4 +1,4 @@
-package com.arrggh.rpg.utilities.api;
+package com.arrggh.utilities.rpg.api;
 
 public interface IDice {
     int[] rolls();
