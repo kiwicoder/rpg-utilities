@@ -1,0 +1,7 @@
+<races>
+	<race name="Dwarf" height="120" weigth="54" />
+	<race name="Elf" height="190" weigth="72" />
+	<race name="Human" height="170" weigth="70" />
+	<race name="Ork" height="190" weigth="95" />
+	<race name="Troll" height="280" weigth="225" />
+</races>
