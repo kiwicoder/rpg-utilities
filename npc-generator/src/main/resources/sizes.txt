@@ -1,0 +1,19 @@
+Cyclopes	249 kg	549 lbs
+Dryads		45 kg	99 lbs
+Dwarves		54 kg	119 lbs
+Elves		72 kg	159 lbs
+Fomori		225 kg	496 lbs
+Giants		281 kg	619 lbs
+Gnomes		40 kg	88 lbs
+Hobgoblins	90 kg	198 lbs
+Humans		70 kg	154 lbs
+Koborokuru	72 kg	119 lbs
+Menehune	72 kg	119 lbs
+Minotaurs	225 kg	496 lbs
+Night Ones	72 kg	159 lbs
+Ogres		95 kg	209 lbs
+Oni			95 kg	209 lbs
+Orks		95 kg	209 lbs
+Satyrs		80 kg	176 lbs
+Trolls		225 kg	496 lbs
+Wakyambi	106 kg	234 lbs
